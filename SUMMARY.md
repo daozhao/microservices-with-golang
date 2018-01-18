@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [什么是微服务](chapter1.md)
 * [微服务需要的知识](wei-fu-wu-xu-yao-de-zhi-shi.md)
+  * [RPC编程](wei-fu-wu-xu-yao-de-zhi-shi/rpcbian-cheng.md)
   * [日志](wei-fu-wu-xu-yao-de-zhi-shi/ri-zhi.md)
   * [trace服务](wei-fu-wu-xu-yao-de-zhi-shi/tracefu-wu.md)
   * [部署](wei-fu-wu-xu-yao-de-zhi-shi/bu-shu.md)
