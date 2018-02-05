@@ -9,7 +9,10 @@
   * [部署](wei-fu-wu-xu-yao-de-zhi-shi/bu-shu.md)
   * [服务与发现](wei-fu-wu-xu-yao-de-zhi-shi/fu-wu-yu-fa-xian.md)
   * [监控](wei-fu-wu-xu-yao-de-zhi-shi/jian-kong.md)
-  * API网关
+  * [API网关](wei-fu-wu-xu-yao-de-zhi-shi/apiwang-guan.md)
+  * [熔断器](wei-fu-wu-xu-yao-de-zhi-shi/rong-duan-qi.md)
+  * [负载均衡](wei-fu-wu-xu-yao-de-zhi-shi/fu-zai-jun-heng.md)
 * [手把手创建微服务](shou-ba-shou-chuang-jian-wei-fu-wu.md)
 * [相关资源链接](xiang-guan-zi-yuan-lian-jie.md)
+* [常见微服务golang框架](chang-jianwei-fu-wu-golang-kuang-jia.md)
 

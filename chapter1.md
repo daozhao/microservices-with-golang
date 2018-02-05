@@ -40,8 +40,6 @@
 
 微服务需要比较强的DevOps团队。只要你的团队不是太差，花点时间增加知识就可以了。对于编程的复杂度增加是有限的，不过对于部署的难度增加相对较大的。不过项目初期，用户量不多的时候可以使用一些简易的部署方式，降低部署的难度。
 
-
-
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
 [http://www.roncoo.com/article/detail/130121](http://www.roncoo.com/article/detail/130121)  什么是微服务架构？
@@ -56,7 +54,7 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 [http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service)  实施微服务，我们需要哪些基础框架？
 
-基于微服务的软件架构模式 [https://www.jianshu.com/p/546ef242b6a3](https://www.jianshu.com/p/546ef242b6a3)
+[https://www.jianshu.com/p/546ef242b6a3](https://www.jianshu.com/p/546ef242b6a3)  基于微服务的软件架构模式
 
 [https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html)  Microservices a definition of this new architectural term
 
