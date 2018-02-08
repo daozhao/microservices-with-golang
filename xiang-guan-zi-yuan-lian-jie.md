@@ -6,7 +6,9 @@ Kubernetes中文指南/实践手册
 
 [https://jimmysong.io/kubernetes-handbook](https://jimmysong.io/kubernetes-handbook)
 
-2018年微服务将疯狂至死
+2018年微服务将疯狂至死 http://www.jdon.com/49261
 
-http://www.jdon.com/49261?hmsr=toutiao.io&utm\_medium=toutiao.io&utm\_source=toutiao.io
+[The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/) http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/ 
+
+
 
