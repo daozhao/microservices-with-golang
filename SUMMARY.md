@@ -12,6 +12,7 @@
   * [API网关](wei-fu-wu-xu-yao-de-zhi-shi/apiwang-guan.md)
   * [熔断器](wei-fu-wu-xu-yao-de-zhi-shi/rong-duan-qi.md)
   * [负载均衡](wei-fu-wu-xu-yao-de-zhi-shi/fu-zai-jun-heng.md)
+  * [配置](wei-fu-wu-xu-yao-de-zhi-shi/pei-zhi.md)
 * [手把手创建微服务](shou-ba-shou-chuang-jian-wei-fu-wu.md)
 * [相关资源链接](xiang-guan-zi-yuan-lian-jie.md)
 * [常见微服务golang框架](chang-jianwei-fu-wu-golang-kuang-jia.md)
