@@ -40,7 +40,9 @@
 
 微服务需要比较强的DevOps团队。只要你的团队不是太差，花点时间增加知识就可以了。对于编程的复杂度增加是有限的，不过对于部署的难度增加相对较大的。不过项目初期，用户量不多的时候可以使用一些简易的部署方式，降低部署的难度。
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+
+## 参考链接
 
 [http://www.roncoo.com/article/detail/130121](http://www.roncoo.com/article/detail/130121)  什么是微服务架构？
 
