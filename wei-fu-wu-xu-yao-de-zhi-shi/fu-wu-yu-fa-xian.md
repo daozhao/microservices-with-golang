@@ -48,8 +48,6 @@
 
 4. [etcd](https://github.com/coreos/etcd)是一个用于共享配置和服务发现的高可用的键值存储系统，使用Go语言编写，通过Raft来保证一致性，有基于HTTP+JSON的API接口。etcd也是一个强一致性系统，但是etcd[似乎支持](https://github.com/coreos/etcd/blob/master/server/v2/get_handler.go#L25)从non-leaders中读取数据以提高可用性；另外，写操作仍然需要leader的支持，所以在网络分区时，写操作仍可能失败。
 
-
-
 另外附一个consul对比Zookeeper表格
 
 |  | consul | Zookeeper |
@@ -68,11 +66,17 @@ Jason Wilder的一篇[博客 http://jasonwilder.com/blog/2014/02/04/service-disc
 
 [https://segmentfault.com/a/1190000008672912](https://segmentfault.com/a/1190000008672912) 服务发现
 
-微服务框架-服务注册和发现 [https://www.jianshu.com/p/3b206180086b](https://www.jianshu.com/p/3b206180086b)  
+微服务框架-服务注册和发现 [https://www.jianshu.com/p/3b206180086b](https://www.jianshu.com/p/3b206180086b)
 
 实施微服务，我们需要哪些基础框架？[http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service)
 
 Consul和ZooKeeper的区别[http://dockone.io/article/300](http://dockone.io/article/300)
 
 Raft算法可以通过这个[动画 http://thesecretlivesofdata.com/raft/](http://thesecretlivesofdata.com/raft/)来学习下，非常直观
+
+Consul 简介和快速入门 [https://www.gitbook.com/book/vincentmi/consul-guide/details](https://www.gitbook.com/book/vincentmi/consul-guide/details)
+
+
+
+
 

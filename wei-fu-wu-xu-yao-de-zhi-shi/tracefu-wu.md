@@ -14,9 +14,54 @@ Opentracing并没有实现服务端搜集数据和方便查看数据的界面，
 
 [https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941](https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941)
 
-
-
 其他Opentracing服务端
 
 [https://zipkin.io/](https://zipkin.io/)
+
+
+
+trace服务：
+
+Opentracing[http://opentracing.io/](http://opentracing.io/)标准
+
+chrome中进行追踪的一个工具（chrome://tracing/）
+
+
+
+[https://uber.github.io/jaeger/](https://uber.github.io/jaeger/) Jaeger OpenTracing compatible distributed tracing system
+
+  
+
+
+**Take OpenTracing for a HotROD ride**
+
+[https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941](https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941)
+
+uber关于[**jaeger**](https://github.com/jaegertracing/jaeger)的demo介绍文章。
+
+[https://www.katacoda.com/opentracing/scenarios/golang-hotrod-demo](https://www.katacoda.com/opentracing/scenarios/golang-hotrod-demo) jaeger的demo运行环境，不过有问题。
+
+[https://lightstep.com/](https://lightstep.com/) trace系统这个好像是商业
+
+[https://github.com/lightstep/lightstep-tracer-go](https://github.com/lightstep/lightstep-tracer-go)
+
+**Appdash is an application tracing system for Go, based on **[**Google's Dapper**](http://research.google.com/pubs/pub36356.html)** and**[**Twitter's Zipkin**](http://twitter.github.io/zipkin/)**.**
+
+[https://github.com/sourcegraph/appdash](https://github.com/sourcegraph/appdash)
+
+[**https://zipkin.io/**](https://zipkin.io/)** Zipkin is a distributed tracing system. **
+
+  
+Dapper, a Large-Scale Distributed Systems Tracing Infrastructure 
+
+[https://research.google.com/pubs/pub36356.html](https://research.google.com/pubs/pub36356.html)
+
+google一编关于分布式跟踪系统论文  
+[https://medium.com/opentracing](https://medium.com/opentracing)这里有关于open tracing的blog文章。
+
+[https://github.com/yurishkuro/opentracing-tutorial/tree/master/go](https://github.com/yurishkuro/opentracing-tutorial/tree/master/go)[**opentracing-tutorial**](https://github.com/yurishkuro/opentracing-tutorial)
+
+**open tracing中文文档 **[https://wu-sheng.gitbooks.io/opentracing-io/content/](https://wu-sheng.gitbooks.io/opentracing-io/content/)
+
+open trace 简明教程 [https://github.com/yurishkuro/opentracing-tutorial](https://github.com/yurishkuro/opentracing-tutorial)
 
