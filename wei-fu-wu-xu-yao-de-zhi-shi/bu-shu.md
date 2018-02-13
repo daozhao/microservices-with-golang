@@ -6,11 +6,13 @@
 
 [https://kubernetes.io/](https://kubernetes.io/)
 
+什么是Docker  [https://cloud.tencent.com/developer/article/1005172](https://cloud.tencent.com/developer/article/1005172)
 
 
 
+Kubernetes中文指南/实践手册
 
-什么是Docker  https://cloud.tencent.com/developer/article/1005172
+[https://jimmysong.io/kubernetes-handbook](https://jimmysong.io/kubernetes-handbook)
 
-
+[https://jimmysong.io/kubernetes-handbook](https://jimmysong.io/kubernetes-handbook)
 
